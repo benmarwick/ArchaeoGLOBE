@@ -20,7 +20,7 @@ Please cite this compendium using the archival URL (and not a GitHub URL):
 
 You can view the results of the analysis online here: <https://github.com/nick-gauthier/ArchaeoGLOBE/blob/master/analysis/archaeoglobe.pdf>
 
-You can run the code in your browser (no download or install required) by [launching Binder](http://beta.mybinder.org/v2/gh/nick-gauthier/ArchaeoGLOBE/master?urlpath=rstudio)
+You can run the code in your browser (no download or install required) by [launching Binder](http://beta.mybinder.org/v2/gh/benmarwick/ArchaeoGLOBE/master?urlpath=rstudio)
 
 You can download the compendium as a zip from from this URL:
 <https://github.com/nick-gauthier/ArchaeoGLOBE/archive/master.zip>

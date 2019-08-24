@@ -24,6 +24,3 @@ RUN . /etc/environment \
 
  # render the manuscript into a html output
   && sudo R -e "setwd('/archaeoglobe/analysis'); rmarkdown::render('archaeoglobe.Rmd')"
-  
-  
-
