@@ -1,6 +1,6 @@
 # ArchaeoGLOBE Research Compendium
 
-[![CircleCI](https://circleci.com/gh/nick-gauthier/ArchaeoGLOBE.svg?style=svg)](https://circleci.com/gh/nick-gauthier/ArchaeoGLOBE)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nick-gauthier/ArchaeoGLOBE/master?urlpath=rstudio)
+[![CircleCI](https://circleci.com/gh/benmarwick/ArchaeoGLOBE.svg?style=svg)](https://circleci.com/gh/benmarwick/ArchaeoGLOBE)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benmarwick/ArchaeoGLOBE/master?urlpath=rstudio)
 
 This repository contains the working files of data and code for our paper:
 
